@@ -12,7 +12,7 @@ Python $|$ scikit-learn $|$ XGBoost $|$ LightGBM $|$ Pandas $|$ NumPy $|$ Matplo
 
 ## 📊 Dataset
 - **Source:** [Kaggle - Diamond Price Dataset](https://www.kaggle.com/code/developerhem/regression-diamonds-price-prediction)
-- **Features Used:** carat, cut, color, clarity, depth, table, x, y, z
+- **Features Used:** carat_weight, cut_quality, clarity, color, total_sales_price, depth_percent, table_percent, meas_length, meas_width, meas_depth, polish, symmetry, eye_clean, lab, cut, fluor_color, girdle_min, girdle_max, culet_size, culet_condition, fancy_color_intensity, fancy_color_dominant_color, fancy_color_secondary_color, fancy_color_overtone
 
 ---
 
