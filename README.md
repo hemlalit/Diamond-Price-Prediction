@@ -1,4 +1,4 @@
-# 💎 Diamond Price Prediction
+# 💎 Diamond Price Prediction using Regression
 
 A machine learning project that explores and compares multiple regression algorithms to predict diamond prices based on key features from the dataset. The goal is to identify the most accurate model using Mean Squared Error (MSE) as the evaluation metric.
 
